@@ -13,3 +13,6 @@ A Spotify UI clone built using HTML and CSS.
 
 *Author
 Aditya Kokate
+
+**Live Demo**
+https://adityakokate03.github.io/spotify-clone/
